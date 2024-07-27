@@ -22,10 +22,10 @@
 
 <p align="left">
 <a href="https://qase.io/">
-<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Qase.io.png" alt="Qase.io" width="50" height="50" />
+<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Qase.io.png" alt="Qase.io" width="30" height="30" />
 </a>
 <a href="https://www.atlassian.com/software/jira">
-<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Jira.png" alt="Jira" width="50" height="50" />
+<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Jira.png" alt="Jira" width="30" height="30" />
 </a>  
 <a href="https://www.postman.com/">
 <img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Postman.png" alt="Qase.io" width="50" height="50" />
