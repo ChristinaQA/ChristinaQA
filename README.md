@@ -14,12 +14,12 @@
    + Mind maps
    + Баг-репорты
 - Коллекция в Postman
-   [Название проекта]
+   + [Название проекта]
 - SQL запросы
-   [Название проекта]
+   + [Название проекта]
 
 # Инструменты и технологии
-
+![Qase.io](/assets/images/Qase.io.png)
 
 # Мои контакты
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]()
