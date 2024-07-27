@@ -19,7 +19,24 @@
    + [Название проекта]
 
 # Инструменты и технологии
-![Qase.io](/icons/Qase.io.png)
+
+<p align="left">
+<a href="https://qase.io/">
+<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Qase.io.png" alt="Qase.io" width="50" height="50" />
+</a>
+<a href="https://www.atlassian.com/software/jira">
+<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Jira.png" alt="Jira" width="50" height="50" />
+</a>  
+<a href="https://www.postman.com/">
+<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Postman.png" alt="Qase.io" width="50" height="50" />
+</a>
+<a href="https://swagger.io/">
+<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
+</a>
+<a href="https://figma.com">
+<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Figma.svg" alt="Figma" width="50" height="50" /> 
+</a>
+</p>
 
 # Мои контакты
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]()
