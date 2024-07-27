@@ -9,10 +9,10 @@
 
 # Портфолио
 - Тестовая документация
-   + Чек-листы
-   + Тест-кейсы
-   + Mind maps
-   + Баг-репорты
+   + [Чек-листы]
+   + [Тест-кейсы]
+   + [Mind maps]
+   + [Баг-репорты]
 - Коллекция в Postman
    + [Название проекта]
 - SQL запросы
@@ -22,21 +22,21 @@
 
 <p align="left">
 <a href="https://qase.io/">
-<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Qase.io.png" alt="Qase.io" width="30" height="30" />
+<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Qase.io.png" alt="Qase.io" width="40" height="40" />
 </a>
 <a href="https://www.atlassian.com/software/jira">
-<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Jira.png" alt="Jira" width="30" height="30" />
+<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Jira.png" alt="Jira" width="40" height="40" />
 </a>  
 <a href="https://www.postman.com/">
-<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Postman.png" alt="Qase.io" width="50" height="50" />
+<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Postman.png" alt="Qase.io" width="40" height="40" />
 </a>
 <a href="https://swagger.io/">
-<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
+<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/swagger.png" alt="Swagger" width="40" height="40" />
 </a>
 <a href="https://figma.com">
-<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Figma.svg" alt="Figma" width="50" height="50" /> 
+<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Figma.svg" alt="Figma" width="40" height="40" /> 
 </a>
 </p>
 
 # Мои контакты
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]()
+[![Telegram Badge](https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/telegram.svg)](https://t.me/olejnik_kris)
