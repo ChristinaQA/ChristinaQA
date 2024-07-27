@@ -5,6 +5,7 @@
 
 ## Резюме:
 [В Google Docs](https://docs.google.com/document/d/1iEGoq4snyo5ZleCn_YCmDfjfaldXMw6QYJFyBJNbwsM/edit?usp=sharing)
+
 [На hh.ru](https://irkutsk.hh.ru/resume/5ce63c34ff0cc872590039ed1f375738504a61)
 
 ## Портфолио
