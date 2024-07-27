@@ -4,10 +4,11 @@
 Сейчас в поиске постоянной удаленной работы, часовой пояс не имеет значения.
 
 ## Резюме:
-[Google Docs](https://docs.google.com/document/d/1iEGoq4snyo5ZleCn_YCmDfjfaldXMw6QYJFyBJNbwsM/edit?usp=sharing).
-[hh.ru](https://irkutsk.hh.ru/resume/5ce63c34ff0cc872590039ed1f375738504a61)
+[В Google Docs](https://docs.google.com/document/d/1iEGoq4snyo5ZleCn_YCmDfjfaldXMw6QYJFyBJNbwsM/edit?usp=sharing).
 
-# Портфолио
+[На hh.ru](https://irkutsk.hh.ru/resume/5ce63c34ff0cc872590039ed1f375738504a61)
+
+## Портфолио
 - Тестовая документация
    + [Чек-листы]
    + [Тест-кейсы]
@@ -38,5 +39,5 @@
 </a>
 </p>
 
-## Мои контакты
+## Контакты
 [![Telegram Badge](https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/telegram.svg)](https://t.me/olejnik_kris)
