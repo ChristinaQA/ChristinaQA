@@ -4,8 +4,7 @@
 Сейчас в поиске постоянной удаленной работы, часовой пояс не имеет значения.
 
 ## Резюме:
-[В Google Docs](https://docs.google.com/document/d/1iEGoq4snyo5ZleCn_YCmDfjfaldXMw6QYJFyBJNbwsM/edit?usp=sharing).
-
+[В Google Docs](https://docs.google.com/document/d/1iEGoq4snyo5ZleCn_YCmDfjfaldXMw6QYJFyBJNbwsM/edit?usp=sharing)
 [На hh.ru](https://irkutsk.hh.ru/resume/5ce63c34ff0cc872590039ed1f375738504a61)
 
 ## Портфолио
@@ -29,13 +28,22 @@
 <img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Jira.png" alt="Jira" width="40" height="40" />
 </a>  
 <a href="https://www.postman.com/">
-<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Postman.png" alt="Qase.io" width="40" height="40" />
+<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Postman.png" alt="Postman" width="40" height="40" />
 </a>
 <a href="https://swagger.io/">
 <img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/swagger.png" alt="Swagger" width="40" height="40" />
 </a>
 <a href="https://figma.com">
 <img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Figma.svg" alt="Figma" width="40" height="40" /> 
+</a>
+<a href="https://www.docker.com/">
+<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Docker.png" alt="Docker" width="40" height="40" />
+</a>
+<a href="https://trello.com/ru">
+<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/Trello.png" alt="Trello" width="40" height="40" />
+</a>
+<a href="https://www.pgadmin.org/">
+<img src="https://github.com/ChristinaQA/ChristinaQA/blob/main/icons/pgadmin.png" alt="pgAdmin" width="40" height="40" />
 </a>
 </p>
 
