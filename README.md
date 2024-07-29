@@ -10,11 +10,7 @@
 [На hh.ru](https://irkutsk.hh.ru/resume/5ce63c34ff0cc872590039ed1f375738504a61)
 
 ## Портфолио
-- Тестовая документация
-   + [Чек-листы]
-   + [Тест-кейсы]
-   + [Mind maps]
-   + [Баг-репорты]
+- [Тестовая документация](https://github.com/users/ChristinaQA/projects/1)
 - Коллекция в Postman
    + [Название проекта]
 - SQL запросы
