@@ -15,8 +15,7 @@
 
 ## Портфолио
 - [Тестовая документация](https://github.com/users/ChristinaQA/projects/1)
-- [Коллекция в Postman]
-- [SQL запросы]
+
 
 ## Инструменты и технологии
 
