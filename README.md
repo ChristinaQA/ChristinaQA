@@ -7,7 +7,7 @@
 Сейчас в поиске постоянной удаленной работы. Часовой пояс не имеет значения.
 
 ## Резюме:
-[В Google Docs](https://docs.google.com/document/d/1wiaXZYTYwShoYhc8nOJFI07fhh9vHU3NBhmT1-ttQdg/edit?usp=sharing)
+[В Google Docs](https://docs.google.com/document/d/1iEGoq4snyo5ZleCn_YCmDfjfaldXMw6QYJFyBJNbwsM/edit)
 
 [На hh.ru](https://irkutsk.hh.ru/resume/5ce63c34ff0cc872590039ed1f375738504a61)
 
